@@ -69,7 +69,6 @@ function App() {
           <p>Backend architecture, distributed infrastructure, and AI-assisted workflows for ambitious products and enterprise teams.</p>
           <div className="hero-actions">
             <a className="button primary" href="#experience">Explore my work <span aria-hidden="true">↓</span></a>
-            <a className="button" href={`${import.meta.env.BASE_URL}Rishi_Gupta_Resume.pdf`} target="_blank">View résumé <span aria-hidden="true">↗</span></a>
           </div>
         </div>
         <div className="hero-orbit" aria-hidden="true"><div className="orbit-core">10+<small>years</small></div></div>
@@ -124,7 +123,7 @@ function App() {
         <p>Have a hard systems problem?</p>
         <h2>Let’s make it<br/><em>work beautifully.</em></h2>
         <a href="mailto:rishigupta9021@gmail.com">rishigupta9021@gmail.com <span aria-hidden="true">↗</span></a>
-        <div className="contact-links"><a href="https://www.linkedin.com/in/rishi-gupta-3a35059238" target="_blank" rel="noreferrer">LinkedIn ↗</a><a href="https://github.com/rishitgupta" target="_blank" rel="noreferrer">GitHub ↗</a><a href="tel:+18475064507">(847) 506-4507</a></div>
+        <div className="contact-links"><a href="https://www.linkedin.com/in/rishi-gupta-3a35059238" target="_blank" rel="noreferrer">LinkedIn ↗</a><a href="https://github.com/rishitgupta" target="_blank" rel="noreferrer">GitHub ↗</a></div>
       </section>
     </main>
     <footer><span>© {new Date().getFullYear()} Rishi Gupta</span><a href="#top">Back to top ↑</a></footer>
